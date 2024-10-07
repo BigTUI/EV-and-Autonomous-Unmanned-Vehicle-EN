@@ -42,6 +42,8 @@ Refernce :
 <br><li><a href="https://www.youtube.com/watch?v=tM9uxMT6K7M" target="_blank">Yutong : Kick off autonomous haulage for a zero-emission limestone mine</a>
   
 - [Yutong : Kick off autonomous haulage for a zero-emission limestone mine](https://www.youtube.com/watch?v=tM9uxMT6K7M){:target="_blank" rel="noopener"}
+- [Yutong : Kick off autonomous haulage for a zero-emission limestone mine](https://www.youtube.com/watch?v=tM9uxMT6K7M){:target="_blank" rel="noopener"}
+
 - [Yutong : YTK90E](https://www.yutongtruck.com/products/YTK90E.shtml?_gl=1*13br3cl*_up*MQ..&gclid=Cj0KCQjw3vO3BhCqARIsAEWblcBnKVI9wSNWBdn_0c_er39H_XODRoaJJjoz1N_8ysCIVbCGMlJbmkwaAqjiEALw_wcB) , [: YTK105E EV Dump Truck 60-80t](https://www.youtube.com/watch?v=kLsDIw25QBY){:target="_blank" rel="noopener"}
 - [Yutong : Mining Dump Truck](https://www.youtube.com/watch?v=T42ZOt11Iko)
 - [Know More About EACON](https://www.youtube.com/watch?v=_0R87ie9S5I)
