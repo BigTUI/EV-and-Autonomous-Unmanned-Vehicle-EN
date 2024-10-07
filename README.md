@@ -17,12 +17,10 @@ Control Room Image: Normally, there are 3-4 operators in the control room (to ma
 <img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Control_room-01.jpg" height="450">
 
 Field Visit: The video footage shows the unmanned dump truck in action. If you observe closely, you will notice that the vehicle consistently follows the same path.
-<br><img src="https://youtu.be/XGZaGu7ctyA"  height="450" />
-https://youtu.be/XGZaGu7ctyA
-
+[Youtube : unmanned dump truck](https://youtu.be/XGZaGu7ctyA) 
 
 This image demonstrates the ability to remotely control the vehicle (Manual Mode), with all the relevant information displayed on the screen.
-[remotely control the vehicle](https://youtu.be/yWC93JcOhJY)
+[Youtube : remotely control the vehicle](https://youtu.be/yWC93JcOhJY)
 
 Front View Sensor System for vehicle safety control
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Sensor_Technology.jpg" alt="BigTUI Sridetch Pancharkan" height="450" />
@@ -40,12 +38,9 @@ Charger Station: This is a fast-charging station that takes about 40 minutes, al
 
 
 Refernce : 
-<br><li><a href="https://www.youtube.com/watch?v=3t1_homU08g" target="_blank">Yutong : Chinese Mines Go Autonomous with Electric Self-Driving Haul Trucks</a>
-<br><li><a href="https://www.youtube.com/watch?v=tM9uxMT6K7M" target="_blank">Yutong : Kick off autonomous haulage for a zero-emission limestone mine</a>
-  
-- [Yutong : Kick off autonomous haulage for a zero-emission limestone mine](https://www.youtube.com/watch?v=tM9uxMT6K7M){:target="_blank" rel="noopener"}
-- [go](https://www.youtube.com/watch?v=tM9uxMT6K7M){:target="_blank" rel="noopener"}
-
+- [Yutong : Chinese Mines Go Autonomous with Electric Self-Driving Haul Trucks](https://www.youtube.com/watch?v=3t1_homU08g)
+- [Yutong : Kick off autonomous haulage for a zero-emission limestone mine]
+- [Yutong : Kick off autonomous haulage for a zero-emission limestone mine](https://www.youtube.com/watch?v=tM9uxMT6K7M)
 - [Yutong : YTK90E](https://www.yutongtruck.com/products/YTK90E.shtml?_gl=1*13br3cl*_up*MQ..&gclid=Cj0KCQjw3vO3BhCqARIsAEWblcBnKVI9wSNWBdn_0c_er39H_XODRoaJJjoz1N_8ysCIVbCGMlJbmkwaAqjiEALw_wcB) , [: YTK105E EV Dump Truck 60-80t](https://www.youtube.com/watch?v=kLsDIw25QBY){:target="_blank" rel="noopener"}
 - [Yutong : Mining Dump Truck](https://www.youtube.com/watch?v=T42ZOt11Iko)
 - [Know More About EACON](https://www.youtube.com/watch?v=_0R87ie9S5I)
