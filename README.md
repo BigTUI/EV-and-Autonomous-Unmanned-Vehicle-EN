@@ -26,6 +26,8 @@ Field Visit: The video footage shows the unmanned dump truck in action. If you o
   <source src="UnmanedDunpTruck.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br> [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
 
 This image demonstrates the ability to remotely control the vehicle (Manual Mode), with all the relevant information displayed on the screen.
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/RemoteControlDumpTruck.mp4"  height="450" />
