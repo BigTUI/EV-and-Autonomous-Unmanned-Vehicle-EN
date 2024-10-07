@@ -1,7 +1,7 @@
 # EV-and-Autonomous-Unmanned-Vehicle-EN
 EV and Autonomous Unmanned Vehicle in Chaina. Thank Huawei Thailand and Yutong.
 
-นายศรีเดช  ปัญจขันธ์ <a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio" target="_blank">[เปิดอ่าน]</a><br>
+Mr.Sridetch Pancharkan <a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio" target="_blank">[เปิดอ่าน]</a><br>
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="20%">
 
 The Story: I had the opportunity to see a 60-ton electric dump truck equipped with an autonomous driving system (EV and Autonomous Unmanned Vehicle Truck 60 Tons). I visited China privately with P'Pi (Mr.Piyapong Woarakee) , Assistant Governor – Information Technology. Since P'Pi has some connections with Huawei, we arranged to coordinate with Yutong, a company that manufactures various types of electric vehicles. However, we specifically wanted to observe their dump truck (Haul Truck) system that uses electric power and an autonomous driving system. Initially, we knew that Yutong had collaborated with SCG and AIS to implement this autonomous system at SCG’s site in a quarry in Saraburi Province, but it was not yet operational. Thus, we couldn’t visit the site (according to AIS, it may be available for viewing in Q4 of 2024). We were informed that the mining technology uses 5G and an automated vehicle control system (today, we finally saw the real system in action).
