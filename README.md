@@ -26,6 +26,8 @@ This image demonstrates the ability to remotely control the vehicle (Manual Mode
 Your browser does not support the video tag.
 </video>
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/RemoteControlDumpTruck.mp4)
+
 Front View Sensor System for vehicle safety control
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Sensor_Technology.jpg" alt="BigTUI Sridetch Pancharkan" height="450" />
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Sensor_Technology2.jpg" alt="BigTUI Sridetch Pancharkan" height="450" />
