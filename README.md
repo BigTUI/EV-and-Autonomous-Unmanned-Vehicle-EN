@@ -26,24 +26,25 @@ Field Visit: The video footage shows the unmanned dump truck in action. If you o
   <source src="UnmanedDunpTruck.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br> TEST1
 <br>
 title: Example product landing page
 product_video: 'UnmanedDunpTruck.mp4'
 product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
 
+<br> TEST2
 <br>
 title: Example product landing page
 product_video: 'https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/UnmanedDunpTruck.mp4'
 product_video_transcript: /content/video-transcripts/TRANSCRIPT-TITLE
 
 This image demonstrates the ability to remotely control the vehicle (Manual Mode), with all the relevant information displayed on the screen.
+<br> TEST3
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/RemoteControlDumpTruck.mp4"  height="450" />
 <video width="320" height="240" controls>
   <source src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/RemoteControlDumpTruck.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/RemoteControlDumpTruck.mp4)
 
 Front View Sensor System for vehicle safety control
 <br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Sensor_Technology.jpg" alt="BigTUI Sridetch Pancharkan" height="450" />
