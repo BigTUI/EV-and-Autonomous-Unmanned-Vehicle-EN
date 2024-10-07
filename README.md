@@ -17,7 +17,7 @@ Control Room Image: Normally, there are 3-4 operators in the control room (to ma
 <img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/Control_room-01.jpg" height="450">
 
 Field Visit: The video footage shows the unmanned dump truck in action. If you observe closely, you will notice that the vehicle consistently follows the same path.
-<br><img src="https://github.com/BigTUI/-EV-and-Autonomous-Unmanned-Vehicle/blob/main/UnmanedDunpTruck.mp4"  height="450" />
+<br><img src="https://youtu.be/XGZaGu7ctyA"  height="450" />
 
 This image demonstrates the ability to remotely control the vehicle (Manual Mode), with all the relevant information displayed on the screen.
 <br> TEST3  RemoteControlDumpTruck.mp4
